@@ -42,13 +42,27 @@
         <header>
             <h1>Get account</h1>
         </header>
+        <div class='container'>
+            <div class='explain_get_balence'>
+                <h2>About the project</h2>
+                <p>Get balance is a <b>simple Decentralized application</b> based upon the <b>Ethereum blockchain</b>. It allows you to get the balance of any account that is on the Ethereum Blockchain. To make it work, you need to put the public address of the account in the text field below and then press the get account button.This project was inspired by <a href="#">this article</a> and <a href="#">this website</a> they were also used as resources.</P>
+            </div>
+
+            <div class='form'>
+                <input type='text' placeholder='enter Ethereum address' id = 'address'>
+                <button type = 'button' onClick = 'getBalance();'>Get accout</button>
+            </div>
+
+            <div class='result' id="output">
+            </div>
+        </div>
         
         <p>Enter you Ethereum Address </p>
 
-        <input type="text" size ='50' id = 'address'/>
-        <button type = 'button' onClick = 'getBalance();'>Balence</button>
+        <input type="text" size ='50' id = 'adress'/>
+        <button type = 'butto' onClick = 'getBalnce();'>Balence</button>
         <br />
         <br />
-        <div id='output'></div>
+        <div id='outut'></div>
     </body>
 </html>
