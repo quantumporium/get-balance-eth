@@ -44,6 +44,7 @@ input {
 display: block;
 width:80%;
 margin: auto;
+margin-top: 8px;
 }
 
 button {
@@ -63,5 +64,3 @@ button:hover {
   margin: auto;
   height: 5em;
 }
-
-
