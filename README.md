@@ -14,7 +14,7 @@ It is important to know that this Dapp doest not interact with a smart contract.
 ![](https://github.com/quantumporium/first_Dapp/blob/main/Screenshot%202021-02-06%20at%2016.26.14.png)
 
 # How to use.
-First go to [this website](https://quantumporium.github.io/first_Dapp/) And that put the account you whant to see the balence in the input field.
+First go to [this website](https://quantumporium.github.io/first_Dapp/) And then put the account you whant to see the balence in the input field.
 
 # Credit
 - [Article by Dapp university](https://www.dappuniversity.com/articles/web3-js-intro)
