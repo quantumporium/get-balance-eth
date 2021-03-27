@@ -8,7 +8,7 @@ Get the balance any Ethereum wallet.
 ![](https://github.com/quantumporium/first_Dapp/blob/main/Screenshot%202021-02-06%20at%2016.26.14.png)
 
 # How to use.
-First go to [this website](https://quantumporium.github.io/first_Dapp/) And then put the account you whant to see the balence in the input field.
+First go to [this website](https://quantumporium.github.io/get-balance-eth/) And then put the account you whant to see the balence in the input field.
 
 # Credit
 - [Article by Dapp university](https://www.dappuniversity.com/articles/web3-js-intro)
