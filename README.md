@@ -1,15 +1,9 @@
-# first Dapp
+# Get Balance - Ethereum Decentralised application
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://quantumporium.github.io/first_Dapp/#)
 
 
-Decentralized App that allows you to get the balance of any account that is on the Ethereum Blockchain.
-
-# Motivation
-After completing my first smart contract and posting it into the ethereum blockchain. I decided  make an app that interact with the ethereum blockchain you can go see the app.
-
-It is important to know that this Dapp doest not interact with a smart contract. It just interact with the ethereum blockchain.
-
+Get the balance any Ethereum wallet. 
 # Screenshot
 ![](https://github.com/quantumporium/first_Dapp/blob/main/Screenshot%202021-02-06%20at%2016.26.14.png)
 
