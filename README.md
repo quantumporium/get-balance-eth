@@ -1,11 +1,11 @@
 # Get Balance - Ethereum Decentralised application
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://quantumporium.github.io/first_Dapp/#)
-
-
-Get the balance any Ethereum wallet. 
-# Screenshot
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)]()
 
 # How to use.
+1. visite the [website]()
+2. Add an Ethereum Adresse
+3. Push the addresse button
+4. Get the result 
 
 
 # Credit
